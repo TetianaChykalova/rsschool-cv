@@ -7,6 +7,8 @@ Hi! I am looking for a remote job as a **junior** front-end developer or HTML co
 
 I don't have commercial work experience. But I have a lot of experience working in a team *(almost half of my life),* and I have a great desire to learn and work for victory.
 
+********
+
 ### Skills
 * Tech skills
     + HTML5
@@ -18,6 +20,8 @@ I don't have commercial work experience. But I have a lot of experience working 
     + Communication
     + Time management
 
+********
+
 ### Education
 National Pedagogical University named M.P. Dragomanova (Kyiv)
 
@@ -26,6 +30,8 @@ Faculty of Engineering and Pedagogy,
 specialty "Secondary education (labor training and technologies)"
 
 *planned year of graduation - 2023*
+
+********
 
 ### Experience
 #### Shevchenkivskiy District Youth Center of Zaporizhzhia, event-meneger
@@ -43,5 +49,9 @@ specialty "Secondary education (labor training and technologies)"
 1. Drawing lessons for children
 2. Training from scratch
 
+********
+
 ### Contacts
-+380663403870
+1. +380663403870
+2. chikalova.t@gmail.com
+3. [Linkedin](https://www.linkedin.com/in/tetiana-chykalova-669b52226/)
