@@ -1,6 +1,8 @@
 # Junior Front-end developer
 ## Tetiana Chykalova
 
+<img src="001.jpg" width="300">
+
 Hi! I am looking for a remote job as a **junior** front-end developer or HTML coder.
 
 I don't have commercial work experience. But I have a lot of experience working in a team *(almost half of my life),* and I have a great desire to learn and work for victory.
