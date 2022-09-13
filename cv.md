@@ -1,7 +1,7 @@
 # Junior Front-end developer
 ## Tetiana Chykalova
 
-<img src="001.jpg" width="300">
+<img src="001.jpg" width="300" alt="portrait">
 
 Hi! I am looking for a remote job as a **junior** front-end developer or HTML coder.
 
